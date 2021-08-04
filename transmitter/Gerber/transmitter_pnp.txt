@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=transmitter
+*Date=08:21:56
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;11.5562;-9.00981;0;Bottom;J2
+2;;;50.0914;6.27393;0;Bottom;Ruler1
+3;;THT;3.93121;-5.20461;0;Bottom;J1
+4;;;1.33144;-6.08853;0;Top;TXT2
+5;;;42.0313;-3.93452;0;Bottom;Hole1
+6;;THT;36.956;-9.00981;0;Bottom;J3
+7;;;1.33144;-3.568;0;Top;TXT1
+8;;dip;25.526;-10.2798;90;Bottom;U1

@@ -2,7 +2,7 @@
 #include <SPI.h> // Not actually used but needed to compile
 
 RH_ASK driver;
-const int BUTTON_PIN_IN = 2;
+const int BUTTON_PIN_IN = A0;
 
 void setup() {
   pinMode(BUTTON_PIN_IN, INPUT); 
